@@ -1,15 +1,9 @@
 import streamlit as st
 import pandas as pd 
-#from plotly.graph_objs import Pie
+from plotly.graph_objs import Pie
 import pickle
 import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 from scipy import stats
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scipy.stats as stats
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
