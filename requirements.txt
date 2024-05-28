@@ -5,5 +5,5 @@ scikit-learn
 matplotlib==3.8.0
 seaborn==0.12.2
 pandas==2.1.4
-numpy==1.5.0
+numpy
 cloudpickle==2.2.1
